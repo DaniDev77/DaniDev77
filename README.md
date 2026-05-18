@@ -79,15 +79,6 @@
 
 ---
 
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/DanDev77/DanDev77/output/github-contribution-grid-snake-dark.svg)
-</div>
-
----
-
 <div align="center">
   <i>Daniel Henrique de Oliveira Vilela · São Paulo, Brasil</i>
 </div>
