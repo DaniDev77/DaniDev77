@@ -61,7 +61,13 @@
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DaniDev77&theme=dark&hide_border=true&date_format=j%2Fn%5BY%5D)
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaniDev77/DaniDev77/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaniDev77/DaniDev77/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/DaniDev77/DaniDev77/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/DaniDev77?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/DaniDev77)
