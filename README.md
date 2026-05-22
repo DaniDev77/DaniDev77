@@ -1,6 +1,6 @@
 <div align="center">
 
-# DanDev77
+# DaniDev77
 
 🎓 Engenheiro de Software em Formação · 🌐 Web & Desktop Development · 📍 Bariri, São Paulo, Brasil
 
@@ -76,8 +76,8 @@
 
 * [x] Dominar conceitos base de C# e ASP.NET
 * [x] Evoluir em HTML, CSS e JavaScript
-* [ ] Construir 3 projetos completos no portfólio
-* [ ] Contribuir com projetos open source
+* [x] Construir 2 projetos completos em linguagem uma linguagem nova no meu portfólio
+* [ ] Criar Projeto com diferentes linguagens sendo usadas
 * [ ] Destacar-me no estágio atual focando na efetivação (Dev Júnior)
 
 ---
