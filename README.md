@@ -2,10 +2,9 @@
 
 # DanDev77
 
-🎓 Engenheiro de Software em Formação  · 🌐 Web Development · 📍 São Paulo, Brasil
+🎓 Engenheiro de Software em Formação · 🌐 Web & Desktop Development · 📍 Bariri, São Paulo, Brasil
 
 *"A tecnologia é a ferramenta. A determinação é o que constrói o futuro."*
-
 
 </div>
 
@@ -15,23 +14,24 @@
 
 <table>
   <tr>
-    <td><b>🇺🇸 EN-US</b></td>
-    <td><b>🇧🇷 PT-BR</b></td>
+    <td width="50%"><b>🇺🇸 EN-US</b></td>
+    <td width="50%"><b>🇧🇷 PT-BR</b></td>
   </tr>
   <tr>
     <td>
-      Hey! I'm <b>Daniel Henrique de Oliveira Vilela</b>, 18 years old, from <b>São Paulo, Brazil</b>. I graduated from <b>SENAI</b> in Systems Development and I'm currently studying <b>Software Engineering at ITE</b>. I have experience with <b>C#, CSS, ASP.NET, JavaScript, HTML, Delphi, and SQL</b>, building practical and efficient solutions.
+      Hey! I'm <b>Daniel Henrique de Oliveira Vilela</b>, 18 years old, from São Paulo, Brazil. I graduated from <b>SENAI</b> in Systems Development and I'm currently studying <b>Software Engineering at ITE</b>. I have experience with <b>C#, ASP.NET, Delphi, SQL, JavaScript, HTML, and CSS</b>, building practical and efficient solutions.
     </td>
     <td>
-      Olá! Sou <b>Daniel Henrique de Oliveira Vilela</b>, 18 anos, de <b>São Paulo, Brasil</b>. Formado no <b>SENAI</b> em Desenvolvimento de Sistemas e atualmente cursando <b>Engenharia de Software na ITE</b>. Tenho conhecimento em <b>C#, CSS, ASP.NET, JavaScript, HTML, Delphi e SQL</b>, desenvolvendo soluções práticas e eficientes.
+      Olá! Sou o <b>Daniel Henrique de Oliveira Vilela</b>, tenho 18 anos e moro em São Paulo. Sou formado pelo <b>SENAI</b> em Desenvolvimento de Sistemas e atualmente curso <b>Engenharia de Software na ITE</b>. Tenho conhecimento prático em <b>C#, ASP.NET, Delphi, SQL, JavaScript, HTML e CSS</b>, desenvolvendo soluções eficientes.
     </td>
   </tr>
 </table>
-- 🔭 Estudando atualmente: **Engenharia de Software na ITE e Fazendo estagio trabalhando com Delphi e SQL**
-- 🌱 Aprendendo: **Arquitetura de Software & Delphi**
-- 💡 Objetivo: **Ganhar mais experiencia na área de desenvolvimento**
-- 📫 Contato:
 
+<br>
+
+* 🚀 **Atualidade:** Estagiário de Desenvolvimento (**Delphi & SQL**) e graduando em Engenharia de Software.
+* 🌱 **Foco de Estudos:** Arquitetura de Software, Clean Code e aprofundamento em Delphi.
+* 🎯 **Objetivo:** Absorver o máximo de experiência prática e evoluir na carreira de desenvolvimento.
 
 ---
 
@@ -39,13 +39,16 @@
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Backend, Desktop & Database
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=delphi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+
+### Frontend & Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -71,14 +74,32 @@
 
 ## 🎯 Metas para 2026
 
-- ✅ Dominar C# e ASP.NET
-- ✅ Evoluir em HTML, CSS e JavaScript
-- ⭕ Construir 3 projetos completos no portfólio
-- ⭕ Contribuir com projetos open source
-- ⭕ Conseguir minha primeira vaga em TI
+* [x] Dominar conceitos base de C# e ASP.NET
+* [x] Evoluir em HTML, CSS e JavaScript
+* [ ] Construir 3 projetos completos no portfólio
+* [ ] Contribuir com projetos open source
+* [ ] Destacar-me no estágio atual focando na efetivação (Dev Júnior)
+
+---
+
+## 📬 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank">
+  <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:seu-email@gmail.com">
+  <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank">
+  <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+</div>
 
 ---
 
 <div align="center">
-  <i>Daniel Henrique de Oliveira Vilela · São Paulo, Brasil</i>
+  <i>Feito com ☕ por Daniel Henrique de Oliveira Vilela</i>
 </div>
