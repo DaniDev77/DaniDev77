@@ -29,8 +29,8 @@
 </table>
 - 🔭 Estudando atualmente: **Engenharia de Software na ITE e Fazendo estagio trabalhando com Delphi e SQL**
 - 🌱 Aprendendo: **Arquitetura de Software & Delphi**
-- 💡 Objetivo: **Conseguir minha primeira vaga em TI**
-- 📫 Contato:![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+- 💡 Objetivo: **Ganhar mais experiencia na área de desenvolvimento**
+- 📫 Contato:
 
 
 ---
