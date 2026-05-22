@@ -19,10 +19,10 @@
   </tr>
   <tr>
     <td>
-      Hey! I'm <b>Daniel Henrique de Oliveira Vilela</b>, 18 years old, from São Paulo, Brazil. I graduated from <b>SENAI</b> in Systems Development and I'm currently studying <b>Software Engineering at ITE</b>. I have experience with <b>C#, ASP.NET, Delphi, SQL, JavaScript, HTML, and CSS</b>, building practical and efficient solutions.
+      Hey! I'm <b>Daniel Henrique de Oliveira Vilela</b>, 18 years old, from Bariri,São Paulo, Brazil. I graduated from <b>SENAI</b> in Systems Development and I'm currently studying <b>Software Engineering at ITE-Instituição Toledo de Ensino</b>. I have experience with <b>C#, ASP.NET, Delphi, SQL, JavaScript, HTML, and CSS</b>, building practical and efficient solutions.
     </td>
     <td>
-      Olá! Sou o <b>Daniel Henrique de Oliveira Vilela</b>, tenho 18 anos e moro em São Paulo. Sou formado pelo <b>SENAI</b> em Desenvolvimento de Sistemas e atualmente curso <b>Engenharia de Software na ITE</b>. Tenho conhecimento prático em <b>C#, ASP.NET, Delphi, SQL, JavaScript, HTML e CSS</b>, desenvolvendo soluções eficientes.
+      Olá! Sou o <b>Daniel Henrique de Oliveira Vilela</b>, tenho 18 anos e moro em Bariri,São Paulo,o. Sou formado pelo <b>SENAI</b> em Desenvolvimento de Sistemas e atualmente curso <b>Engenharia de Software na ITE-Instituição Toledo de Ensino</b>. Tenho conhecimento prático em <b>C#, ASP.NET, Delphi, SQL, JavaScript, HTML e CSS</b>, desenvolvendo soluções eficientes.
     </td>
   </tr>
 </table>
@@ -84,7 +84,7 @@
 * [x] Evoluir em HTML, CSS e JavaScript
 * [x] Construir 2 projetos completos em linguagem uma linguagem nova no meu portfólio
 * [ ] Criar Projeto com diferentes linguagens sendo usadas
-* [ ] Destacar-me no estágio atual focando na efetivação (Dev Júnior)
+* [ ] Ser efetivado em uma empressa com DEV Junior
 
 ---
 
