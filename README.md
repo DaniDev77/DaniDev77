@@ -2,7 +2,8 @@
 
 # DaniDev77
 
-🎓 Engenheiro de Software em Formação · 🌐 Web & Desktop Development · 📍 Bariri, São Paulo, Brasil
+🎓 Engenheiro de Software em Formação · 🌐 Web & Desktop Development ·
+ 📍 Bariri, São Paulo, Brasil
 
 *"A tecnologia é a ferramenta. A determinação é o que constrói o futuro."*
 
@@ -84,7 +85,7 @@
 * [x] Evoluir em HTML, CSS e JavaScript
 * [x] Construir 2 projetos completos em linguagem uma linguagem nova no meu portfólio
 * [ ] Criar Projeto com diferentes linguagens sendo usadas
-* [ ] Ser efetivado em uma empressa com DEV Junior
+* [ ] Ser efetivado em uma empressa como DEV Junior
 
 ---
 
