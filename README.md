@@ -2,8 +2,7 @@
 
 # DaniDev77
 
-🎓 Engenheiro de Software em Formação · 🌐 Web & Desktop Development ·
- 📍 Bariri, São Paulo, Brasil
+🎓 Engenheiro de Software em Formação · 🌐 Web & Desktop Development <br>📍 Bariri, São Paulo, Brasil<br>
 
 *"A tecnologia é a ferramenta. A determinação é o que constrói o futuro."*
 
