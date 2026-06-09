@@ -29,8 +29,8 @@
 
 <br>
 
-* 🚀 **Atualidade:** Estagiário de Desenvolvimento (**Delphi & SQL**) e graduando em Engenharia de Software.
-* 🌱 **Foco de Estudos:** Arquitetura de Software, Clean Code e aprofundamento em Delphi.
+* 🚀 **Atualidade:** Graduando em Engenharia de Software.
+* 🌱 **Foco de Estudos:** Arquitetura de Software, Clean Code e aprofundamento em programação.
 * 🎯 **Objetivo:** Absorver o máximo de experiência prática e evoluir na carreira de desenvolvimento.
 
 ---
@@ -92,14 +92,11 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank">
+<a href="https:www.linkedin.com/in/daniel-vilela-1a7149355" target="_blank">
   <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="mailto:seu-email@gmail.com">
+<a href="mailto:daneelvilela@gmail.com">
   <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank">
-  <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
 </div>
