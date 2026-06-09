@@ -92,7 +92,7 @@
 
 <div align="center">
 
-<a href="https:www.linkedin.com/in/daniel-vilela-1a7149355" target="_blank">
+<a href="https://www.linkedin.com/in/daniel-vilela-1a7149355" target="_blank">
   <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:daneelvilela@gmail.com">
